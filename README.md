@@ -5,8 +5,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://www.codewars.com/users/xMikuzoo/badges/small" height="40" /></td>
-      <td rowspan="2"><img src="https://roadmap.sh/card/tall/67121d5e791f57dd60aecb5a?variant=dark" height="250" /></td>
+      <td>
+        <a href="https://www.codewars.com/users/xMikuzoo">
+          <img src="https://www.codewars.com/users/xMikuzoo/badges/small" height="40" />
+        </a>
+      </td>
+      <td rowspan="2">
+        <a href="https://roadmap.sh/u/xmikuzoo">
+          <img src="https://roadmap.sh/card/tall/67121d5e791f57dd60aecb5a?variant=dark" height="250" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
